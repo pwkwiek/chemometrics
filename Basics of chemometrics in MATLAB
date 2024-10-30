@@ -2,3 +2,8 @@ Scope:
 - data loading, processing, visualization
 - charts: radar, matrix, Chernoff faces
 - cluster analysis, principal component analysis
+
+Files:
+- jezioro.mat: data containing information about 7 different lakes
+- jezioro.m: analysis of data collected from 7 different lakes
+- kawa.m: analysis of 18 different samples of various types of coffee
