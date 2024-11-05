@@ -17,7 +17,7 @@ subplot(1,3,1);
 bar(kawa); % wykres słupkowy
 legend(pierwiastek); % legenda
 xlabel('Kawa');
-xticks(1:5);
+xticks(1:18);
 xticklabels(code);
 ylabel('Stężenie / mol/dm^3');
 
